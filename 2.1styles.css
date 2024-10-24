@@ -38,6 +38,19 @@ body {
 
 }
 
+h1 {
+    
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 10vh;
+    margin-right: 55px;
+
+}
+
+
 input {
     width: 342px;
     height: 74px;
@@ -51,7 +64,7 @@ input {
     
 }
 
-.input , .input2  {
+.input , .input2   {
     margin-right: 62px;
 }
 
