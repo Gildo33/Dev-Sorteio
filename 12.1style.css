@@ -20,6 +20,6 @@ button {
     cursor: pointer;
 }
 h1,h2 {
-    color: white;
+    color: rgba(255, 255, 255, 0.836);
 
 }
